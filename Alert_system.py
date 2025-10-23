@@ -28,16 +28,16 @@ connection = {
     'host': 'https://clickhouse.lab.karpov.courses',
     'database': 'simulator_20250820',
     'user': 'student',
-    'password': 'dpo_python_2020'
+    'password': '*****'
 }
 
-my_token = '7898888628:AAHJG6503_h_BrdIg1sUewzaSw1EYOnisjg'
+my_token = 'токен'
 
 # Отправляем в канал
-# chat_id = -969316925 # АЛЕРТЫ | KC Симулятор Аналитика
+# chat_id = -96931***
 
 # Отправляем в личный чат
-chat_id = 665685947
+chat_id = 66568***
 
  
 # отслеживание аномалии с помощью метода межквартильного размаха
