@@ -23,7 +23,7 @@
 **Этапы работы:**  
 Написание скрипта для создания системы алертов, создание дашборда в Superset, настройка автоматической отправки алерта с помощью Airflow. Размещение кода в Gitlab.
 
-Ознакомиться с файлом решения можно здесь: [Alert_system]( https://github.com/NailyaGalina/Airflow_alert_system/blob/main/Alert_system.py)  
+Ознакомиться с файлом решения можно здесь: [Alert_system](https://github.com/NailyaGalina/Airflow_alert_system/blob/main/Alert_system.py)  
 
 **Результат:**  
 Создана система алертов для поиска аномалий.
@@ -35,3 +35,4 @@
 ![скриншот](оперативный_дашборд_1.png)
 ![скриншот](оперативный_дашборд_2.png)
 
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
